@@ -1,0 +1,35 @@
+# Build and local development
+.gradle/
+build/
+run/
+logs/
+crash-reports/
+.idea/
+.vscode/
+*.iml
+out/
+*.jar
+*.zip
+*.rar
+
+# Private visual and audio assets
+**/models/**
+**/textures/**
+**/sounds/**
+*.bbmodel
+*.blend
+*.glb
+*.gltf
+*.obj
+*.fbx
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
+*.ogg
+*.wav
+*.mp3
+*.psd
+*.kra

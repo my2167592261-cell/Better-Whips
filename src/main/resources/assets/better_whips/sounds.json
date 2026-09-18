@@ -1,0 +1,70 @@
+{
+  "landing_quake_1": {
+    "sounds": [
+      {
+        "name": "better_whips:landing_quake_1",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "landing_quake_2": {
+    "sounds": [
+      {
+        "name": "better_whips:landing_quake_2",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "shockwave": {
+    "sounds": [
+      {
+        "name": "better_whips:shockwave",
+        "attenuation_distance": 56
+      }
+    ]
+  },
+  "lightning_arc": {
+    "sounds": [
+      {
+        "name": "better_whips:lightning_arc_1",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "better_whips:lightning_arc_2",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "whip_swing": {
+    "sounds": [
+      {
+        "name": "better_whips:whip_swing",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "whip_crack": {
+    "sounds": [
+      {
+        "name": "better_whips:whip_crack",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "crystal_whip_hit": {
+    "sounds": [
+      {
+        "name": "better_whips:crystal_whip_hit",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "lightning_whip_hit": {
+    "sounds": [
+      {
+        "name": "better_whips:lightning_whip_hit",
+        "attenuation_distance": 32
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "AA ",
+    "B A",
+    "S  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:enchanted_book"
+    },
+    "S": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "id": "better_whips:amethyst_whip",
+    "count": 1
+  }
+}

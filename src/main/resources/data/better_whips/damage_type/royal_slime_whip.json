@@ -1,0 +1,7 @@
+{
+  "message_id": "better_whips.royal_slime_whip",
+  "scaling": "never",
+  "exhaustion": 0.1,
+  "effects": "hurt",
+  "death_message_type": "default"
+}

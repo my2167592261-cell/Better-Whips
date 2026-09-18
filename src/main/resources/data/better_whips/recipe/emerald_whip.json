@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "EE ",
+    "B E",
+    "M  "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "minecraft:enchanted_book"
+    },
+    "M": {
+      "item": "minecraft:mangrove_log"
+    }
+  },
+  "result": {
+    "id": "better_whips:emerald_whip",
+    "count": 1
+  }
+}

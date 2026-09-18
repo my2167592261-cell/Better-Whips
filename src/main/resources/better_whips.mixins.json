@@ -1,0 +1,18 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.betterwhips.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "PlayerModelWhipMixin",
+    "ItemInHandLayerWhipContextMixin",
+    "ItemInHandRendererWhipContextMixin",
+    "GameRendererWhipDepthMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "mixins": [
+    "LightningBoltAccessor"
+  ]
+}

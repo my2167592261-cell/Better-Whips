@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    " RL",
+    " L ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:lead"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "better_whips:leather_whip",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "WHS",
+    "NLC",
+    "BMP"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wolf_armor"
+    },
+    "H": {
+      "tag": "better_whips:horse_armors"
+    },
+    "S": {
+      "item": "minecraft:saddle"
+    },
+    "N": {
+      "item": "minecraft:name_tag"
+    },
+    "L": {
+      "item": "better_whips:leather_whip"
+    },
+    "C": {
+      "item": "minecraft:chicken"
+    },
+    "B": {
+      "item": "minecraft:beef"
+    },
+    "M": {
+      "item": "minecraft:mutton"
+    },
+    "P": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "id": "better_whips:trainer_whip",
+    "count": 1
+  }
+}

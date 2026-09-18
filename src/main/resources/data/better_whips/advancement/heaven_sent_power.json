@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "obtain_thunderstorm": {
+      "conditions": {
+        "items": [
+          {
+            "items": "better_whips:lightning_whip"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.better_whips.heaven_sent_power.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "better_whips:lightning_whip"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.better_whips.heaven_sent_power.title"
+    },
+    "frame": "task"
+  },
+  "requirements": [
+    [
+      "obtain_thunderstorm"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
